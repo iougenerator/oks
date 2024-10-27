@@ -10,3 +10,4 @@ else:
        sum += i  
        i -= 1  
    print(f"sum of first {num} natural number is",sum)
+print("thala for a reason")
